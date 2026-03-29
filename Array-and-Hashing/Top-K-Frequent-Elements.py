@@ -52,7 +52,7 @@ class Solution:
         return res
 
 
-# 🔹 Hardcoded input
+# Hardcoded input
 nums = [1, 2, 2, 3, 3, 3]
 k = 2
 
