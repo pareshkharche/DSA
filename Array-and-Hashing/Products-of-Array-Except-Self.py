@@ -13,7 +13,6 @@
 #tc:O(n^2) Sc:O(1)
 
 
-
 #optimized solution
 class Solution:
     def productExceptSelf(self, nums):
